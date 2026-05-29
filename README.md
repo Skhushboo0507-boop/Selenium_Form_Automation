@@ -30,6 +30,19 @@ This project automates a web form using Selenium WebDriver with Python. The auto
 5. Submit the form.
 6. Verify successful submission message.
 
+## Installation
+install Selenium:
+
+```bash
+pip install selenium
+```
+
+## Run the Project
+
+```bash
+python form.py
+```
+
 ## Learning Outcomes
 - Selenium WebDriver fundamentals
 - Locators (ID, Name, XPath, CSS Selector)
@@ -39,4 +52,5 @@ This project automates a web form using Selenium WebDriver with Python. The auto
 
 ## Author
 **Khushboo Sharma**
+
 Aspiring Software Test Engineer | Selenium Automation Testing
